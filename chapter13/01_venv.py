@@ -1,0 +1,2 @@
+#virtual environment is  same as the system interpreter but is isolated from the other python environment on the system
+#pip install -r.\requirement.txt will install  all the  packages in the  requirement file.

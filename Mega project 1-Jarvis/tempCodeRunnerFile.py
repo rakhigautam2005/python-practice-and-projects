@@ -1,0 +1,2 @@
+
+client = OpenAI(api_key="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

@@ -5,9 +5,23 @@ A complete collection of my Python learning journey, including fundamentals, pra
 ##  Repository Structure
 
 * **Basics** → Core Python concepts (variables, loops, functions)
-* **Practice Sheets** → Problem-solving exercises from course learning
+* **Practice Sheets** → Problem-solving exercises 
 * **Mini Projects** → Beginner-friendly applications
 * **Mega Projects** → Real world implementations
+ 
+## Practice and Chapters
+ Practiced Python concepts chapter by chapter.
+ topics practiced include:
+ *variable and datatypes
+ *string , lists,dictionary,sets
+ *conditional statements
+ *loops
+ *functions and recursion
+ *file handling
+ *object-oriented-programmimg concepts and inheritence
+ *exception handling
+ *modules and packages
+ *problem solving exercises
 
 ##  Projects Included
 
